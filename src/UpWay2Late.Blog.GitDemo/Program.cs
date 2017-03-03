@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace UpWay2Late.Blog.GitDemo
 {
@@ -9,6 +6,8 @@ namespace UpWay2Late.Blog.GitDemo
     {
         public static void Main(string[] args)
         {
+            Console.Write("Hello Git!");
+            Console.ReadLine();
         }
     }
 }
